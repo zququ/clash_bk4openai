@@ -1,4 +1,5 @@
 # clash_bk4openai
+```
 proxy-groups:
 -
   name: '🧠 OpenAI'
@@ -29,3 +30,4 @@ rule-providers:
 rules:
   - DOMAIN-SUFFIX,sentry.io,REJECT
   - RULE-SET,OpenAI,🧠 OpenAI
+```
